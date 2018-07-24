@@ -34,4 +34,4 @@ puts snacks
 def food (snacks= "Cheetos")
   "Any time, is the right time for #{snacks}"
 end
-snacks 
+food 
