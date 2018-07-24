@@ -14,6 +14,11 @@ def lunch (food= "grilled cheese")
   puts "Lunch will be #{food}"
 end
 lunch
+
+def dinner (food= "salmon")
+    puts "Dinner will be #{food}"
+  end 
+  dinner 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
